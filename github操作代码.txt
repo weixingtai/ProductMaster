@@ -4,5 +4,7 @@
 更新：git pull origin master
 
 代码加到仓库：
+git add *
+git commit -m "some info"
 
 提交代码：git push origin master
