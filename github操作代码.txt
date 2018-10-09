@@ -1,0 +1,8 @@
+在github创建仓库：ProductMaster
+在要创建项目的位置执行代码：git clone https://github.com/weixingtai/ProductMaster.git
+
+更新：git pull origin master
+
+代码加到仓库：
+
+提交代码：git push origin master
